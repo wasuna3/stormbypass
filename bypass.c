@@ -1,4 +1,4 @@
-/* StormBypass by wasuna3 *\
+
 
 #include <stdio.h>
 #include <stdlib.h>
